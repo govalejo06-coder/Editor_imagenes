@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Editor de Imágenes con IA",
+  "description": "Una aplicación web para editar imágenes utilizando prompts de texto en lenguaje natural. Sube una imagen, describe los cambios que deseas y la IA generará una nueva versión para ti.",
+  "requestFramePermissions": []
+}
